@@ -40,6 +40,7 @@ class ViewController: UIViewController {
         messageLabelPage.text = ""
         messageLabelHyman.text = ""
         messageLabelFleiss.text = ""
+        // This function is used to clear the message labels after the clear button is pressed.
     }
     
     
